@@ -6,4 +6,3 @@ for dir in "$HOME/Projects/Personal"/*; do
     echo "$(basename "$dir")"
   fi
 done
-

@@ -39,4 +39,6 @@ projects=(
 )
 echo "${projects[@]}"
 
-gum choose "${projects[@]}"
+project=$(gum choose "${projects[@]}")
+
+cd "$HOME/Projects/Personal/$project" || exit 1

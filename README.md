@@ -2,7 +2,7 @@
 
 ![Experimental](https://img.shields.io/badge/Experimental-8A2BE2?style=for-the-badge&color=ff9500&label=Status)
 
-This repository contains various experiments and examples related to the Gum. This is to help decide on the best way to use Gum for future cli applications.
+This repository contains various experiments and examples related to the Gum. This is to help decide on the best way to build future cli applications.
 
 ## Scripts
 
